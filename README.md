@@ -1,2 +1,2 @@
-# VeriYapilari
-VeriYapilari dersi için yapılan ödevler
+# DataStructures
+DataStructres Lab Solutions
